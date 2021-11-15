@@ -1,0 +1,32 @@
+body * {
+    background: green;
+    color: black;
+    margin: 10;
+    padding: 10;
+    border: 2px black;
+    display: block;
+}
+body * * {
+    background: yellow;
+    margin: 10;
+    padding: 10;
+    border: 2px black;
+}
+body * * * {
+    background: brown;
+    margin: 10;
+    padding: 10;
+    border: 2px black;
+}
+body * * * * {
+    background: blue;
+    margin: 10;
+    padding: 10;
+    border: 2px black;
+}
+body * * * * * {
+    background: red;
+    margin: 10;
+    padding: 10;
+    border: 2px black;
+}
